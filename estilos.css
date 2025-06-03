@@ -1,0 +1,30 @@
+.card-img-top {
+  height: 350px;
+  object-fit: cover;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.hero-section {
+  background-color: #fff3cd;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.hero-section h2 {
+  font-weight: bold;
+}
+
+.hero-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+input-quantity {
+  margin: 5px;
+  width: 10px;
+}
